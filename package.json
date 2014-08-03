@@ -1,0 +1,33 @@
+{
+  "name": "svg-create-element",
+  "version": "1.0.0",
+  "description": "create an svg element",
+  "main": "index.js",
+  "dependencies": {
+    "has": "~0.0.1"
+  },
+  "devDependencies": {
+    "tape": "^2.13.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/svg-create-element.git"
+  },
+  "homepage": "https://github.com/substack/svg-create-element",
+  "keywords": [
+    "svg",
+    "browser",
+    "createElement",
+    "document",
+    "dom"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
